@@ -1,6 +1,6 @@
 # Beacn on Linux
 
-A list of repositories and tools attempting to add Beacn hardware support to Linux! Join us on [Discord](https://discord.gg/PdsscuEhMh)
+A group of repositories and tools attempting to add Beacn hardware support to Linux! Join us on [Discord](https://discord.gg/PdsscuEhMh)
 
 ## What are we doing?
 The end goal of this org will be to have all Beacn hardware devices supported in some way on Linux, we're not looking at pretty, 
